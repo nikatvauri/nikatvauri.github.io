@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>წნორის N1 საჯარო სკოლა</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>წნორის N1 საჯარო სკოლა</description>
+	<lastBuildDate>Mon, 21 Nov 2022 08:05:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/11/სიღნაღის-მუნიციპალიტეტი-5.jpg</url>
+	<title>წნორის N1 საჯარო სკოლა</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>სასწავლო წელი დაიწყო</title>
+		<link>/2022/11/21/%e1%83%a1%e1%83%90%e1%83%a1%e1%83%ac%e1%83%90%e1%83%95%e1%83%9a%e1%83%9d-%e1%83%ac%e1%83%94%e1%83%9a%e1%83%98-%e1%83%93%e1%83%90%e1%83%98%e1%83%ac%e1%83%a7%e1%83%9d/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 21 Nov 2022 07:37:59 +0000</pubDate>
+				<category><![CDATA[სიახლეები]]></category>
+		<guid isPermaLink="false">/?p=479</guid>
+
+					<description><![CDATA[საქართველოს ზოგადსაგანმანათლებლო დაწესებულებებში სასწავლო წელი დაიწყო. სწავლის დაწყების პირველ დღეს ყველა საჯარო სკოლაში საქართველოს ჰიმნი გაჟღერდა და დროშა აღიმართა. განათლების სამინისტროს ინფორმაციით, ახალ სასწავლო წელს სკოლები მნიშვნელოვანი სიახლეებით ხვდებიან. ამასთან, განათლების სამინისტროს ცნობით, გაუმჯობესებული ეპიდვითარების გათვალისწინებით, სკოლებისთვის განახლებული რეკომენდაციები შემუშავდა. საქართველოს სკოლებში პირველიდან მეთორმეტე კლასის ჩათვლით 632 726 მოსწავლე ისწავლის. 2022-2023 სასწავლო წლისთვის საქართველოს სკოლებში [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full"><img decoding="async" width="900" height="598" src="/wp-content/uploads/2022/11/kerdzo-skolebi-2.jpg" alt="" class="wp-image-480"/></figure>
+
+
+
+<p>საქართველოს ზოგადსაგანმანათლებლო დაწესებულებებში სასწავლო წელი დაიწყო. სწავლის დაწყების პირველ დღეს ყველა საჯარო სკოლაში საქართველოს ჰიმნი გაჟღერდა და დროშა აღიმართა. </p>
+
+
+
+<p>განათლების სამინისტროს ინფორმაციით, ახალ სასწავლო წელს სკოლები მნიშვნელოვანი სიახლეებით ხვდებიან. ამასთან, განათლების სამინისტროს ცნობით, გაუმჯობესებული ეპიდვითარების გათვალისწინებით, სკოლებისთვის განახლებული რეკომენდაციები შემუშავდა. </p>
+
+
+
+<p>საქართველოს სკოლებში პირველიდან მეთორმეტე კლასის ჩათვლით 632 726 მოსწავლე ისწავლის. 2022-2023 სასწავლო წლისთვის საქართველოს სკოლებში ქვეყნის მასშტაბით ჯამში 55 717 პირველკლასელი დაიწყებს სწავლას, მათ შორის, 1 868 ბავშვი, რომელიც ზოგადსაგანმანათლებლო დაწესებულებებში პირველკლასელთა რეგისტრაციის წესში განხორციელებული ცვლილების საფუძველზე ჩაირიცხა.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
